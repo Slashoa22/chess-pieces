@@ -1,6 +1,6 @@
 # chess-pieces
 this repo contains hand-drawn chess pieces for random chess activities they're not very well drawn but they're there.
-so far, this repo contains:
+so far, this repo contains these pieces in 4 colors:
 - Amazon
 - Archbisop
 - Chancellor
@@ -18,4 +18,3 @@ so far, this repo contains:
 - Checker
 - Checker Queen
 - Bishop
-in 4 colors
